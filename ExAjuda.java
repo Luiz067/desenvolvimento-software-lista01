@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class ExAjuda {
     public static void executar() {
         String nome = Prompt.lerLinha("Digite o seu nome: ");
