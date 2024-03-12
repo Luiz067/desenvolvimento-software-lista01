@@ -4,6 +4,7 @@ public class Programa {
         //ExAjuda.executar();
         //Ex01.executar();
         //Ex02.executar();
-        Ex03.executar();
+        //Ex03.executar();
+        Ex04.executar();
     }
 }
