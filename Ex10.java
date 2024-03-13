@@ -1,6 +1,6 @@
 public class Ex10 {
     public static void executar() {
-        int a = Prompt.lerInteiro("Digite uma valor de 1 a 5: ");
+        int a = Prompt.lerInteiro("Digite uma valor de 1 a 5: "); 
         if (a == 1) {
             Prompt.imprimir("Um");
         } else if (a == 2) {
